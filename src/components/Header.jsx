@@ -9,7 +9,7 @@ function Header() {
 
             <h1>
                 <a href="/" className='logo bg-red-200'>
-                    <img src="/images/simple-elegant-letter-s-logo-design_579179-3445.avif" alt="Saad" width={40} height={40}/>
+                    <img src="/public/images/simple-elegant-letter-s-logo-design_579179-3445.avif" alt="Saad" width={40} height={40}/>
                 </a>
             </h1>
 

@@ -4,42 +4,42 @@ import SkillCard from './SkillCard';
 
 const skillItem = [
     {
-      imgSrc: '/images/figma.svg',
+      imgSrc: '/public/images/figma.svg',
       label: 'Figma',
       desc: 'Design tool'
     },
     {
-      imgSrc: '/images/css3.svg',
+      imgSrc: '/public/images/css3.svg',
       label: 'CSS',
       desc: 'User Interface'
     },
     {
-      imgSrc: '/images/javascript.svg',
+      imgSrc: '/public/images/javascript.svg',
       label: 'JavaScript',
       desc: 'Interaction'
     },
     {
-      imgSrc: '/images/nodejs.svg',
+      imgSrc: '/public/images/nodejs.svg',
       label: 'NodeJS',
       desc: 'Web Server'
     },
     {
-      imgSrc: '/images/expressjs.svg',
+      imgSrc: '/public/images/expressjs.svg',
       label: 'ExpressJS',
       desc: 'Node Framework'
     },
     {
-      imgSrc: '/images/supabase-logo-icon.png',
+      imgSrc: '/public/images/supabase-logo-icon.png',
       label: 'Supabase',
       desc: 'Database'
     },
     {
-      imgSrc: '/images/react.svg',
+      imgSrc: '/public/images/react.svg',
       label: 'React',
       desc: 'Framework'
     },
     {
-      imgSrc: '/images/tailwindcss.svg',
+      imgSrc: '/public/images/tailwindcss.svg',
       label: 'TailwindCSS',
       desc: 'User Interface'
     },
