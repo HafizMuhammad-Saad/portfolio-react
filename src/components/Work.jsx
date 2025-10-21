@@ -2,6 +2,18 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
     {
+      imgSrc: '/images/cardamage.png',
+      title: 'Car Damage Assessment System',
+      tags: ['API', 'React', 'Tailwind', 'Express'],
+      projectLink: 'https://skade.quickrepair.dk/'
+    },
+    {
+      imgSrc: '/images/tec.png',
+      title: 'Tec Publisher E-Commerce Management',
+      tags: ['API', 'React', 'Development', 'Express'],
+      projectLink: 'https://shop.tec.edu.pk/'
+    },
+    {
       imgSrc: '/images/QuizApp.PNG',
       title: 'Quiz app',
       tags: ['API', 'JS', 'Development'],
